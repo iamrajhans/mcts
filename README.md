@@ -1,4 +1,3 @@
-```markdown
 # Logistics Route Optimization with Monte Carlo Tree Search
 
 This project demonstrates how to optimize a delivery route using the **Monte Carlo Tree Search (MCTS)** algorithm, integrated with the **Google Maps API** for real-world distance calculations. The goal is to minimize delivery costs and time by finding the most efficient route.
